@@ -31,11 +31,11 @@ linkedin_username: 동준-황-985752203
 # Additional icon links
 additional_links: 
 - title : Curriculum Vitae
-  icon : far fa-file-user
+  icon : fa fa-file-user
   url : "https://drive.google.com/file/d/14DKe4euXJrhPP9RpT2tEaifMj4OH2dio/view?usp=sharing"
 
 - title : Resume
-  icon : far fa-file-arrow-down
+  icon : fa fa-file-arrow-down
   url : "https://drive.google.com/file/d/1cTcfNDkC256Iuc2vdT7zzcVXwZ6pIfBF/view?usp=sharing"
 
 - title : Youtube
@@ -43,7 +43,7 @@ additional_links:
   url : https://www.youtube.com/channel/UCKpNG3FZqT3_tQEH31ju9xQ
 
 - title : Velog
-  icon : far fa-blog
+  icon : fa fa-blog
   url : https://velog.io/@wbsl0427
 
 # - title: itsgoingto.be
