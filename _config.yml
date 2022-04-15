@@ -29,14 +29,6 @@ linkedin_username: 동준-황-985752203
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links: 
-- title : Curriculum Vitae
-  icon : fa fa-file-user
-  url : "https://drive.google.com/file/d/14DKe4euXJrhPP9RpT2tEaifMj4OH2dio/view?usp=sharing"
-
-- title : Resume
-  icon : fa fa-file-arrow-down
-  url : "https://drive.google.com/file/d/1cTcfNDkC256Iuc2vdT7zzcVXwZ6pIfBF/view?usp=sharing"
 
 - title : Youtube
   icon : fab fa-youtube
