@@ -31,19 +31,19 @@ linkedin_username: 동준-황-985752203
 # Additional icon links
 additional_links: 
 - title : Curriculum Vitae
-  icon : fa-regular fa-file-user
+  icon : far fa-file-user
   url : "https://drive.google.com/file/d/14DKe4euXJrhPP9RpT2tEaifMj4OH2dio/view?usp=sharing"
 
 - title : Resume
-  icon : fa-regular fa-file-arrow-down
+  icon : far fa-file-arrow-down
   url : "https://drive.google.com/file/d/1cTcfNDkC256Iuc2vdT7zzcVXwZ6pIfBF/view?usp=sharing"
 
 - title : Youtube
-  icon : fa-brands fa-youtube
+  icon : fab fa-youtube
   url : https://www.youtube.com/channel/UCKpNG3FZqT3_tQEH31ju9xQ
 
 - title : Velog
-  icon : fa-regular fa-blog
+  icon : far fa-blog
   url : https://velog.io/@wbsl0427
 
 # - title: itsgoingto.be
@@ -63,18 +63,18 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_joon.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Master Course student of Artificial Intelligence in Sogang University with 0+ years.
+  Master Course student of <b>Artificial Intelligence</b> in Sogang University with 0+ years.
 
-  Specially interested in <mark>Self, Weakly Supervised Learning</mark> in Computer Vision.
+  Specially interested in <b>Self, Weakly Supervised Learning</b> in Computer Vision.
   
   Looking to leverage my knowledge and experience into research such as applied Deep Learning in Computer Vision.
 
   I am most interested in: applied <mark>Deep Learning</mark> in Computer Vision, <mark>Machine Learning</mark>
 
-  If you have any question to me, please contact in <mark>wbsl0427@gmail.com</mark>. I'll give you fast answering.
+  If you have any question to me, please contact in <b>wbsl0427@gmail.com</b>.
 
-  My Resume can download <a href="https://drive.google.com/file/d/1cTcfNDkC256Iuc2vdT7zzcVXwZ6pIfBF/view?usp=sharing">HERE</a>
-  and also Curiculum Vitae can download <a href="https://drive.google.com/file/d/14DKe4euXJrhPP9RpT2tEaifMj4OH2dio/view?usp=sharing">HERE</a>
+  My Resume can download <b><a href="https://drive.google.com/file/d/1cTcfNDkC256Iuc2vdT7zzcVXwZ6pIfBF/view?usp=sharing">HERE</a></b>
+  and also Curiculum Vitae can download <b><a href="https://drive.google.com/file/d/14DKe4euXJrhPP9RpT2tEaifMj4OH2dio/view?usp=sharing">HERE</a></b>
 
 # content:
 #   - title: Projects # Title for the section
